@@ -1,0 +1,446 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <opframe:opFrame>: minetweaker.mc1710.formatting.FormattedString@6fc6fde2
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DragonsRadioMod:Radio>: minetweaker.mc1710.formatting.FormattedString@77123220
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 3 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Flat Lamp
+INFO: Adding tooltip for <IC2:itemCable:5>: minetweaker.mc1710.formatting.FormattedString@64c07be0
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <IC2:blockITNT>: minetweaker.mc1710.formatting.FormattedString@4b9d003b
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <IC2:blockNuke>: minetweaker.mc1710.formatting.FormattedString@4ce0825d
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <IC2:blockMachine:7>: minetweaker.mc1710.formatting.FormattedString@63a0cc26
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <IC2:blockMachine2:11>: minetweaker.mc1710.formatting.FormattedString@35145251
+INFO: Removing 1 recipes
+INFO: Adding recipe for ЭХПФ
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <AdvancedSolarPanel:BlockAdvSolarPanel>: minetweaker.mc1710.formatting.FormattedString@3e722f7e
+INFO: Removing 2 recipes
+INFO: Adding recipe for Гибридная солнечная панель
+INFO: Adding tooltip for <AdvancedSolarPanel:BlockAdvSolarPanel:1>: minetweaker.mc1710.formatting.FormattedString@272c7e57
+INFO: Removing 2 recipes
+INFO: Adding recipe for Ультимейт гибридная солнечная панель
+INFO: Adding tooltip for <AdvancedSolarPanel:BlockAdvSolarPanel:2>: minetweaker.mc1710.formatting.FormattedString@3f8e280e
+INFO: Removing 1 recipes
+INFO: Adding recipe for Квантовая солнечная панель
+INFO: Adding tooltip for <AdvancedSolarPanel:BlockAdvSolarPanel:3>: minetweaker.mc1710.formatting.FormattedString@4f3d51b3
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ядро молекулярного преобразователя
+INFO: Removing 1 recipes
+INFO: Adding recipe for Улучшенный солнечный шлем
+INFO: Removing 1 recipes
+INFO: Adding recipe for Гибридный солнечный шлем
+INFO: Removing 2 recipes
+INFO: Adding recipe for Ультимейт солнечный шлем
+INFO: Adding tooltip for <GraviSuite:vajra:*>: minetweaker.mc1710.formatting.FormattedString@79600aa
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <GraviSuite:relocator>: minetweaker.mc1710.formatting.FormattedString@3ee4995c
+INFO: Removing 1 recipes
+INFO: Adding recipe for Гравитационный жилет
+INFO: Removing 1 recipes
+INFO: Adding recipe for Изоляция суперпроводника
+INFO: Removing 1 recipes
+INFO: Adding recipe for Суперпродвоник
+INFO: Removing 1 recipes
+INFO: Adding recipe for Охлаждающее ядро
+INFO: Removing 1 recipes
+INFO: Adding recipe for Гравитационный двигатель
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ускоритель двигателя
+INFO: Removing 1 recipes
+INFO: Adding recipe for Флаксовая бронепластина
+INFO: Removing 1 recipes
+INFO: Adding recipe for Наполненный флаксом шлем
+INFO: Removing 1 recipes
+INFO: Adding recipe for Наполненная флаксом кираса
+INFO: Removing 1 recipes
+INFO: Adding recipe for Наполненные флаксом поножи
+INFO: Removing 1 recipes
+INFO: Adding recipe for Наполненные флаксом ботинки
+INFO: Adding tooltip for <simplyjetpacks:jetpacksCommon>: minetweaker.mc1710.formatting.FormattedString@a6004dd
+INFO: Adding tooltip for <simplyjetpacks:jetpacksCommon>: minetweaker.mc1710.formatting.FormattedString@1305da6d
+INFO: Adding tooltip for <minechem:minechemPolytool>: minetweaker.mc1710.formatting.FormattedString@53e8fcfe
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <personalchunkloaderoc:chunkloaderUpgrade>: minetweaker.mc1710.formatting.FormattedString@1a021cba
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <appliedenergistics2:item.ItemMultiPart:300>: minetweaker.mc1710.formatting.FormattedString@686e402b
+INFO: Removing 0 recipes
+INFO: Adding tooltip for <appliedenergistics2:item.ItemMultiPart:1024>: minetweaker.mc1710.formatting.FormattedString@79da4c93
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <appliedenergistics2:item.ItemMultiPart:320>: minetweaker.mc1710.formatting.FormattedString@58e3453f
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <appliedenergistics2:item.ItemMultiMaterial:32>: minetweaker.mc1710.formatting.FormattedString@48dbe2b6
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <appliedenergistics2:tile.BlockSpatialIOPort>: minetweaker.mc1710.formatting.FormattedString@1e623401
+INFO: Adding recipe for Вычислительный пресс для высекателя
+INFO: Adding recipe for Инженерный пресс для высекателя
+INFO: Adding recipe for Логический пресс для высекателя
+INFO: Adding recipe for Кремниевый пресс для высекателя
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 3 recipes
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <OpenBlocks:sky>: minetweaker.mc1710.formatting.FormattedString@790f033b
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenBlocks:goldenegg>: minetweaker.mc1710.formatting.FormattedString@c562ac3
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenBlocks:generic:2>: minetweaker.mc1710.formatting.FormattedString@3b0ef711
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <OpenBlocks:generic:3>: minetweaker.mc1710.formatting.FormattedString@445e3c73
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <OpenBlocks:generic:4>: minetweaker.mc1710.formatting.FormattedString@3c308c12
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenBlocks:craneControl>: minetweaker.mc1710.formatting.FormattedString@6e824ee4
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenBlocks:craneBackpack>: minetweaker.mc1710.formatting.FormattedString@41bdb29e
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <MineFactoryReloaded:machine.2:10>: minetweaker.mc1710.formatting.FormattedString@4df38c6f
+INFO: Removing 0 recipes
+INFO: Adding tooltip for <MineFactoryReloaded:rubberwood.sapling:3>: minetweaker.mc1710.formatting.FormattedString@4d157189
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <EnderIO:blockEnchanter>: minetweaker.mc1710.formatting.FormattedString@8a05ee6
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <EnderIO:blockWeatherObelisk>: minetweaker.mc1710.formatting.FormattedString@3841bbd9
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <BuildCraft|Builders:machineBlock>: minetweaker.mc1710.formatting.FormattedString@52e9f542
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <BuildCraft|Builders:builderBlock>: minetweaker.mc1710.formatting.FormattedString@1e1d7268
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <BuildCraft|Factory:miningWellBlock>: minetweaker.mc1710.formatting.FormattedString@6604506b
+INFO: Removing 3 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Forestry:factory:7>: minetweaker.mc1710.formatting.FormattedString@7ca3a59d
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <ExtraBees:alveary:4>: minetweaker.mc1710.formatting.FormattedString@673cdb18
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Провод из красного сплава в оболочке
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Mekanism:MachineBlock:4>: minetweaker.mc1710.formatting.FormattedString@6e4a9d1f
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Mekanism:MachineBlock:11>: minetweaker.mc1710.formatting.FormattedString@3f2cd5a4
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Mekanism:Robit>: minetweaker.mc1710.formatting.FormattedString@37701db6
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Mekanism:BasicBlock:7>: minetweaker.mc1710.formatting.FormattedString@58a59006
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Mekanism:CardboardBox>: minetweaker.mc1710.formatting.FormattedString@839bad0
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Атомный разборщик
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenComputers:item:62>: minetweaker.mc1710.formatting.FormattedString@124692a4
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <OpenComputers:item:75>: minetweaker.mc1710.formatting.FormattedString@5339308
+INFO: Removing 1 recipes
+INFO: Adding recipe for Транспозер
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <computronics:computronics.chatBox>: minetweaker.mc1710.formatting.FormattedString@7e1b3feb
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <openmodularturrets:teleporterTurret>: minetweaker.mc1710.formatting.FormattedString@7348afd3
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <MagicBees:magnet>: minetweaker.mc1710.formatting.FormattedString@6c9f358c
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <ExtraUtilities:filing>: minetweaker.mc1710.formatting.FormattedString@1cd1e490
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <ExtraUtilities:enderQuarry>: minetweaker.mc1710.formatting.FormattedString@1c3591d3
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <ExtraUtilities:enderThermicPump>: minetweaker.mc1710.formatting.FormattedString@69d67021
+INFO: Adding recipe for Булыжник
+INFO: Removing 5 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <ExtraUtilities:angelRing>
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <TConstruct:explosive.slime>: minetweaker.mc1710.formatting.FormattedString@71d6c2c9
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <TConstruct:explosive.slime:2>: minetweaker.mc1710.formatting.FormattedString@2e6b71d
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <TConstruct:heartCanister:6>
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@448aa8d5
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@39204b95
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@1af755f8
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@4f353dd9
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@30fa4b42
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@37b54ec5
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@51506a8b
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@5ec23993
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@2b1e21bc
+INFO: Adding tooltip for <TConstruct:heartCanister:5>: minetweaker.mc1710.formatting.FormattedString@43462832
+INFO: Adding tooltip for <Botania:dice>: minetweaker.mc1710.formatting.FormattedString@203f0c2d
+INFO: Adding tooltip for <Botania:dice>: minetweaker.mc1710.formatting.FormattedString@62c980b1
+INFO: Adding tooltip for <Botania:dice>: minetweaker.mc1710.formatting.FormattedString@76fdfcd1
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Botania:goldenLaurel>: minetweaker.mc1710.formatting.FormattedString@59aaa1b6
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <Botania:itemFinder>: minetweaker.mc1710.formatting.FormattedString@78d04828
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <Botania:keepIvy>
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <HardcoreEnderExpansion:curse:10>: minetweaker.mc1710.formatting.FormattedString@2c43b2c7
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <HardcoreEnderExpansion:decomposition_table>: minetweaker.mc1710.formatting.FormattedString@25cbc184
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <HardcoreEnderExpansion:charm_pouch>
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <AWWayofTime:blockTeleposer>: minetweaker.mc1710.formatting.FormattedString@3d29796d
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <AWWayofTime:itemCompressionSigil>: minetweaker.mc1710.formatting.FormattedString@599c6934
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <AWWayofTime:sigilOfTheBridge>: minetweaker.mc1710.formatting.FormattedString@20cfdb06
+INFO: Removing 1 recipes
+INFO: Adding recipe for Сигил подавления
+INFO: Adding tooltip for <Thaumcraft:ItemAxeElemental>: minetweaker.mc1710.formatting.FormattedString@278c49d9
+INFO: Adding tooltip for <Thaumcraft:ItemAxeElemental>: minetweaker.mc1710.formatting.FormattedString@a0210c2
+INFO: Adding tooltip for <Thaumcraft:ItemAxeElemental>: minetweaker.mc1710.formatting.FormattedString@1b441654
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <Thaumcraft:GolemBell>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicExploration:trashJar>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicHorizons:amuletMirror>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicHorizons:soulBeacon>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <thaumicbases:revolver>
+INFO: Adding tooltip for <thaumicbases:revolver>: minetweaker.mc1710.formatting.FormattedString@43f6d87
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <thaumicbases:fociActivation>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <thaumicbases:herobrinesScythe>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Коса Белоглазого
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <thaumicbases:overchanter>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Стол Сверхзачарования
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <TaintedMagic:ItemFocusTime>
+INFO: Adding tooltip for <TaintedMagic:ItemFocusTime>: minetweaker.mc1710.formatting.FormattedString@56dcbef6
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <TaintedMagic:ItemFocusMeteorology>
+INFO: Adding tooltip for <TaintedMagic:ItemFocusMeteorology>: minetweaker.mc1710.formatting.FormattedString@5d0c5a0b
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <TaintedMagic:ItemPrimordialEdge>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Первородное Лезвие
+INFO: Adding tooltip for <ThaumicTinkerer:focusFlight>: minetweaker.mc1710.formatting.FormattedString@28600565
+INFO: Adding tooltip for <ThaumicTinkerer:focusFlight>: minetweaker.mc1710.formatting.FormattedString@74403968
+INFO: Adding tooltip for <ThaumicTinkerer:focusFlight>: minetweaker.mc1710.formatting.FormattedString@61e10a6
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <ThaumicTinkerer:shareBook>: minetweaker.mc1710.formatting.FormattedString@62c67642
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <ThaumicTinkerer:dislocator>
+INFO: Adding tooltip for <ThaumicTinkerer:dislocator>: minetweaker.mc1710.formatting.FormattedString@2d688eed
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:Levitational Locomotive>
+INFO: Adding tooltip for <ThaumicTinkerer:Levitational Locomotive>: minetweaker.mc1710.formatting.FormattedString@54b39b78
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireFire>
+INFO: Adding tooltip for <ThaumicTinkerer:fireFire>: minetweaker.mc1710.formatting.FormattedString@7c41f356
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireOrder>
+INFO: Adding tooltip for <ThaumicTinkerer:fireOrder>: minetweaker.mc1710.formatting.FormattedString@16bf4288
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireChaos>
+INFO: Adding tooltip for <ThaumicTinkerer:fireChaos>: minetweaker.mc1710.formatting.FormattedString@42036781
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireEarth>
+INFO: Adding tooltip for <ThaumicTinkerer:fireEarth>: minetweaker.mc1710.formatting.FormattedString@7888f312
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireAir>
+INFO: Adding tooltip for <ThaumicTinkerer:fireAir>: minetweaker.mc1710.formatting.FormattedString@4f66b9fd
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ThaumicTinkerer:fireWater>
+INFO: Adding tooltip for <ThaumicTinkerer:fireWater>: minetweaker.mc1710.formatting.FormattedString@1e281801
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:warpGate>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Небесный портал
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:enchanter>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Осмотический стол зачарований
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <ThaumicTinkerer:kamiResource:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <ThaumicTinkerer:kamiResource:1>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:ichorclothHelmGem>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Капюшон адских глубин
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:ichorclothChestGem>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Роба стратосферы
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:ichorclothLegsGem>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Пылающие шаровары
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <ThaumicTinkerer:ichorclothBootsGem>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Щитовые сапоги
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Кристалл Нижнего мира
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <gadomancy:BlockRemoteJar>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <WitchingGadgets:WG_StoneDevice>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <WitchingGadgets:WG_WoodenDevice:5>
+INFO: [ModTweaker2] Removing 2 Thaumcraft Arcane Worktable Recipe(s) for <WitchingGadgets:item.WG_Bag>, <WitchingGadgets:item.WG_Bag:3>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <WitchingGadgets:item.WG_CrystalFlask>
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <EMT:BaseBaubles>: minetweaker.mc1710.formatting.FormattedString@faf7b43
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <EMT:EMTMachines>
+INFO: Adding tooltip for <EMT:EMTMachines>: minetweaker.mc1710.formatting.FormattedString@6ed5f497
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <IC2:itemUran235small>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <EMT:EMTSolars>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <EMT:EMTSolars:1>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <EMT:EMTSolars:2>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <witchery:ingredient:163>
+INFO: Removing 2 recipes
+INFO: Adding recipe for Серебряный меч
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Сладкозвучный голод
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Тонкий шёлк
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Тревожный шелк
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Голова адской гончей
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Настой жидкого духа
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Кровь Лилит
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Вырванная страница
+INFO: Adding tooltip for <DraconicEvolution:draconicDistructionStaff>: minetweaker.mc1710.formatting.FormattedString@4b7343e
+INFO: Adding tooltip for <DraconicEvolution:draconicDistructionStaff>: minetweaker.mc1710.formatting.FormattedString@d16d7e2
+INFO: Adding tooltip for <DraconicEvolution:draconicDistructionStaff>: minetweaker.mc1710.formatting.FormattedString@1212e3da
+INFO: Adding tooltip for <DraconicEvolution:reactorCore>: minetweaker.mc1710.formatting.FormattedString@4615a01d
+INFO: Adding tooltip for <DraconicEvolution:reactorCore>: minetweaker.mc1710.formatting.FormattedString@25e51070
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:magnet>: minetweaker.mc1710.formatting.FormattedString@4ca2f5f0
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:magnet:1>: minetweaker.mc1710.formatting.FormattedString@5822281f
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:weatherController>: minetweaker.mc1710.formatting.FormattedString@260aa057
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:sunDial>: minetweaker.mc1710.formatting.FormattedString@47239f9f
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:teleporterMKI>: minetweaker.mc1710.formatting.FormattedString@594af21d
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:teleporterMKII>: minetweaker.mc1710.formatting.FormattedString@4323c869
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:teleporterStand>: minetweaker.mc1710.formatting.FormattedString@33aaabd0
+INFO: Removing 1 recipes
+INFO: Adding tooltip for <DraconicEvolution:dislocatorReceptacle>: minetweaker.mc1710.formatting.FormattedString@1992c1cf
+INFO: Removing 1 recipes
+INFO: Adding recipe for §6Дракониевая §6мотыга
+INFO: Removing 3 recipes
+INFO: Removing 2 furnace recipes
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <DraconicEvolution:draconiumIngot>
+INFO: Removing ArcFurnace Recipe for §bДракониевый §bслиток
+INFO: Adding recipe for §bДракониевый §bслиток
+INFO: Adding recipe for §bДракониевый §bслиток
+INFO: Adding furnace recipe for <DraconicEvolution:draconiumDust>
+INFO: Removing 1 recipes
+INFO: Adding recipe for §6Модификатор улучшений
+INFO: Removing 1 recipes
+INFO: Adding recipe for Дизэнчантер
+INFO: Removing 1 recipes
+INFO: Adding recipe for Дробилка существ
+INFO: Removing 1 recipes
+INFO: Adding recipe for Стабилизатор реактора
+INFO: Removing 1 recipes
+INFO: Adding recipe for Дракониевый блок
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <DraconicEvolution:draconicCore>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <DraconicEvolution:wyvernCore>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <DraconicEvolution:awakenedCore>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Ядро хаоса
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <DraconicEvolution:draconiumEnergyCore>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <DraconicEvolution:draconiumEnergyCore:1>
+INFO: Removing 2 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dФлаксовый §dконденсатор §dвиверны
+INFO: Removing 0 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6флаксовый §6конденсатор
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dШлем §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6шлем
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dНагрудник §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевая §6кираса
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dПоножи §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевые §6поножи
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dБотинки §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевые §6ботинки
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6лук
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6топор
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6меч
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевая §6кирка
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевая §6лопата
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §6Дракониевый §6посох §6силы
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Ядро реактора
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dМеч §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dКирка §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dЛопата §dвиверны
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for §dЛук §dвиверны
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@5c298715
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@1749615a
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@342ceff0
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@6875bebd
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@71b8a199
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@522755e0
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@337792
+INFO: Adding tooltip for <exastris:endcake>: minetweaker.mc1710.formatting.FormattedString@6b3d7e94
+INFO: Removing 2 recipes
+INFO: Adding recipe for Улучшение скорости
+INFO: Removing 2 recipes
+INFO: Adding recipe for Улучшение удачи
+INFO: Removing 2 recipes
+INFO: Adding tooltip for <exastris:sieve_automatic>: minetweaker.mc1710.formatting.FormattedString@5399e1c4
+INFO: Adding recipe for Автоматическое сито
+INFO: Removing 1 recipes
+INFO: Adding recipe for Булыжник
+INFO: Removing 3 furnace recipes
+INFO: Adding furnace recipe for <exnihilo:osmium_gravel>
+INFO: Adding furnace recipe for <exnihilo:osmium_sand>
+INFO: Adding furnace recipe for <exnihilo:osmium_dust>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Heavy Silk Mesh
